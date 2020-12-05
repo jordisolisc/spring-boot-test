@@ -11,4 +11,5 @@ public class ExampleController {
     public String example(@RequestParam(name = "parameter", defaultValue = "jordinete") String parameter){
         return String.format("This is an example %s", parameter);
     }
+
 }
