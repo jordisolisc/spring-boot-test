@@ -1,5 +1,6 @@
-package com.njesoft.springboottesting.controller;
+package com.njesoft.springboottesting.unit.controller;
 
+import com.njesoft.springboottesting.controller.ExampleController;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
